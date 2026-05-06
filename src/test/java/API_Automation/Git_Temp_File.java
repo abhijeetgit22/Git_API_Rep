@@ -8,6 +8,11 @@ public class Git_Temp_File {
         System.out.println("Abhijeet2 -- Person 1");
         System.out.println("Abhijeet3 -- Person 1");
 
-
     }
+
+
+    public static void getName(){
+        System.out.println("Abhijeet Srivastava");
+    }
+
 }
