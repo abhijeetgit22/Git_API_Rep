@@ -15,4 +15,8 @@ public class Git_Temp_File {
         System.out.println("Abhijeet Srivastava");
     }
 
+    public static void getName2(){
+        System.out.println("Namisha Srivastava");
+    }
+
 }
